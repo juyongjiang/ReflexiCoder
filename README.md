@@ -9,7 +9,7 @@
 > [!CAUTION]
 > This project requires **CUDA 12.4**. If you encounter segmentation faults, please verify your CUDA toolchain via `nvcc --version`.
 
-### 1) Set up the Open-R1 environment
+### 1) Set up the TRL environment
 
 ```bash
 conda create -n reflexicoder python=3.11
