@@ -88,3 +88,17 @@ ACCELERATE_LOG_LEVEL=info \
 We evaluate all baselines and RL-trained models on **HumanEval**, **HumanEval+**, **MBPP**, **MBPP+**, **LiveCodeBench_v5**, and **CodeForces** using the **EvalChemy** framework to ensure consistent evaluation.
 
 For the full evaluation pipeline, please refer to the official [EvalChemy](https://github.com/mlfoundations/evalchemy) and its README.
+
+## Performance & Token Efficiency
+
+<p align="center" width="100%">
+  <img src="assets/results.png" alt="ReflexiCoder Overview" style="width: 90%; min-width: 100px; display: block; margin: auto;">
+</p>
+
+<p align="center" width="100%">
+  <img src="assets/token_dist.png" alt="Performance on Benchmarks" style="width: 90%; min-width: 100px; display: block; margin: auto;">
+</p>
+
+<p align="center" width="100%">
+  <img src="assets/token_budgets.png" alt="Token Efficiency" style="width: 90%; min-width: 100px; display: block; margin: auto;">
+</p>
