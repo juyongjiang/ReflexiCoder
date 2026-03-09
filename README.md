@@ -92,13 +92,13 @@ For the full evaluation pipeline, please refer to the official [EvalChemy](https
 ## Performance & Token Efficiency
 
 <p align="center" width="100%">
-  <img src="assets/results.png" alt="ReflexiCoder Overview" style="width: 90%; min-width: 100px; display: block; margin: auto;">
+  <img src="assets/results.png" alt="ReflexiCoder Overview" style="width: 100%; min-width: 100px; display: block; margin: auto;">
 </p>
 
 <p align="center" width="100%">
-  <img src="assets/token_dist.png" alt="Performance on Benchmarks" style="width: 90%; min-width: 100px; display: block; margin: auto;">
+  <img src="assets/token_dist.png" alt="Performance on Benchmarks" style="width: 100%; min-width: 100px; display: block; margin: auto;">
 </p>
 
 <p align="center" width="100%">
-  <img src="assets/token_budgets.png" alt="Token Efficiency" style="width: 90%; min-width: 100px; display: block; margin: auto;">
+  <img src="assets/token_budgets.png" alt="Token Efficiency" style="width: 100%; min-width: 100px; display: block; margin: auto;">
 </p>
