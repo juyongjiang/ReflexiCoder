@@ -102,3 +102,16 @@ For the full evaluation pipeline, please refer to the official [EvalChemy](https
 <p align="center" width="100%">
   <img src="assets/token_budgets.png" alt="Token Efficiency" style="width: 100%; min-width: 100px; display: block; margin: auto;">
 </p>
+
+## Citation
+
+If you use the data or code in this repo, please consider citing the following paper.
+
+```bibtex
+@article{jiang2026reflexicoder,
+  title={ReflexiCoder: Teaching Large Language Models to Self-Reflect on Generated Code and Self-Correct It via Reinforcement Learning},
+  author={Jiang, Juyong and Shen, Jiasi and Kim, Sunghun and Yoo, Kang Min and Kim, Jeonghoon and Kim, Sungju},
+  journal={arXiv preprint arXiv:2603.05863},
+  year={2026}
+}
+```
