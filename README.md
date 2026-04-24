@@ -1,7 +1,7 @@
 # ReflexiCoder: Teaching Large Language Models to Self-Reflect on Generated Code and Self-Correct It via Reinforcement Learning
 
 <p align="center" width="100%">
-  <img src="assets/ReflexiCoder.png" alt="ReflexiCoder overview" style="width: 90%; min-width: 100px; display: block; margin: auto;">
+  <img src="assets/ReflexiCoder.png" alt="ReflexiCoder overview" style="width: 100%; min-width: 100px; display: block; margin: auto;">
 </p>
 
 ## Installation
